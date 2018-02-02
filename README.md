@@ -1,4 +1,4 @@
-# React-Native notes
+# Sharepoint SPFX notes
 Personal notes building SPFX webparts on Sharepoint (on a Apple Mac)
 
 ## Dependencies
